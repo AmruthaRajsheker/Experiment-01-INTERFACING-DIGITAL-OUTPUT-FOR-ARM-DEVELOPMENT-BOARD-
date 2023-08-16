@@ -191,12 +191,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 CASE 1 : LED IS ON
 
-![LED ON](https://github.com/AmruthaRajsheker/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119475943/204430c3-3489-4df5-b365-10bdf8ecc862)
+![image](https://github.com/AmruthaRajsheker/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119475943/21c1f9c9-cc9f-4a8e-8722-1b001abf9aaa)
 
 
 CASE 2 : LED IS OFF
 
-![LED OFF](https://github.com/AmruthaRajsheker/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119475943/9557795e-e5c6-4b24-b3cc-4bbb89d3e4de)
+![image](https://github.com/AmruthaRajsheker/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119475943/b227e0b2-7651-43a9-8d6c-ce6da8684133)
+
  
  
 ## Result :
